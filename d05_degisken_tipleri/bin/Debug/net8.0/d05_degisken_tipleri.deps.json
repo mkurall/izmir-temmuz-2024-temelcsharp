@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d05_degisken_tipleri/1.0.0": {
+        "runtime": {
+          "d05_degisken_tipleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d05_degisken_tipleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

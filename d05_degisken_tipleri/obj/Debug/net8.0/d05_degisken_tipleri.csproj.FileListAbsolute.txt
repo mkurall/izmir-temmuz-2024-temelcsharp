@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\bin\Debug\net8.0\d05_degisken_tipleri.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\bin\Debug\net8.0\d05_degisken_tipleri.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\bin\Debug\net8.0\d05_degisken_tipleri.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\bin\Debug\net8.0\d05_degisken_tipleri.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\bin\Debug\net8.0\d05_degisken_tipleri.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\d05_degisken_tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\d05_degisken_tipleri.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\d05_degisken_tipleri.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\d05_degisken_tipleri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\d05_degisken_tipleri.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\d05_degisken_tipleri.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\refint\d05_degisken_tipleri.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\d05_degisken_tipleri.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\d05_degisken_tipleri.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d05_degisken_tipleri\obj\Debug\net8.0\ref\d05_degisken_tipleri.dll

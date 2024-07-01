@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Btk Akademi C# Kursu");//metinsel veri
+﻿﻿Console.WriteLine("Btk Akademi C# Kursu");//metinsel veri
 Console.WriteLine(1981);//tam sayı
 Console.WriteLine(3.14);//ondalıklı sayı
 Console.WriteLine('E');//karakter

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\bin\Debug\net8.0\d04_degiskenler.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\bin\Debug\net8.0\d04_degiskenler.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\bin\Debug\net8.0\d04_degiskenler.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\bin\Debug\net8.0\d04_degiskenler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\bin\Debug\net8.0\d04_degiskenler.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\d04_degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\d04_degiskenler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\d04_degiskenler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\d04_degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\d04_degiskenler.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\d04_degiskenler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\refint\d04_degiskenler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\d04_degiskenler.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\d04_degiskenler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d04_degiskenler\obj\Debug\net8.0\ref\d04_degiskenler.dll
