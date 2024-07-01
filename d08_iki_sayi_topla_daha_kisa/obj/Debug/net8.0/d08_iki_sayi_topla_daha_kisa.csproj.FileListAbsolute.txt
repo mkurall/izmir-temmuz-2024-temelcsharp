@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\bin\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\bin\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\bin\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\bin\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\bin\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\refint\d08_iki_sayi_topla_daha_kisa.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\d08_iki_sayi_topla_daha_kisa.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla_daha_kisa\obj\Debug\net8.0\ref\d08_iki_sayi_topla_daha_kisa.dll
