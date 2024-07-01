@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d13_vize_final_ortalama/1.0.0": {
+        "runtime": {
+          "d13_vize_final_ortalama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d13_vize_final_ortalama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

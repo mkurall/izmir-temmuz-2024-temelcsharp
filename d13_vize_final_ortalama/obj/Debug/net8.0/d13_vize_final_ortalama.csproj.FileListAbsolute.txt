@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\bin\Debug\net8.0\d13_vize_final_ortalama.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\bin\Debug\net8.0\d13_vize_final_ortalama.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\bin\Debug\net8.0\d13_vize_final_ortalama.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\bin\Debug\net8.0\d13_vize_final_ortalama.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\bin\Debug\net8.0\d13_vize_final_ortalama.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\d13_vize_final_ortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\d13_vize_final_ortalama.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\d13_vize_final_ortalama.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\d13_vize_final_ortalama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\d13_vize_final_ortalama.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\d13_vize_final_ortalama.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\refint\d13_vize_final_ortalama.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\d13_vize_final_ortalama.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\d13_vize_final_ortalama.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d13_vize_final_ortalama\obj\Debug\net8.0\ref\d13_vize_final_ortalama.dll
