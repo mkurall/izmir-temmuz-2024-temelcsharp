@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\bin\Debug\net6.0\d06_tip_donusumleri.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\bin\Debug\net6.0\d06_tip_donusumleri.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\bin\Debug\net6.0\d06_tip_donusumleri.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\bin\Debug\net6.0\d06_tip_donusumleri.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\bin\Debug\net6.0\d06_tip_donusumleri.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\d06_tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\d06_tip_donusumleri.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\d06_tip_donusumleri.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\d06_tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\d06_tip_donusumleri.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\d06_tip_donusumleri.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\refint\d06_tip_donusumleri.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\d06_tip_donusumleri.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\d06_tip_donusumleri.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d06_tip_donusumleri\obj\Debug\net6.0\ref\d06_tip_donusumleri.dll

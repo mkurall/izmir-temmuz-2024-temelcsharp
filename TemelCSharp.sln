@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d01_merhabadunya", "d01_merhabadunya\d01_merhabadunya.csproj", "{F77A9F3B-730F-404F-ABA3-6ACFD2FC1A3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d01_merhabadunya", "d01_merhabadunya\d01_merhabadunya.csproj", "{F77A9F3B-730F-404F-ABA3-6ACFD2FC1A3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d02_selam", "d02_selam\d02_selam.csproj", "{1DBF71BB-5927-4A3B-B540-5C2B21A89E9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d02_selam", "d02_selam\d02_selam.csproj", "{1DBF71BB-5927-4A3B-B540-5C2B21A89E9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d03_sabitveriler", "d03_sabitveriler\d03_sabitveriler.csproj", "{1D0CEA3B-77EF-4864-BA85-95ECB14514C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d03_sabitveriler", "d03_sabitveriler\d03_sabitveriler.csproj", "{1D0CEA3B-77EF-4864-BA85-95ECB14514C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d04_degiskenler", "d04_degiskenler\d04_degiskenler.csproj", "{F4C2E49F-5DC6-4E3D-BD7C-13FFCA23512B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d04_degiskenler", "d04_degiskenler\d04_degiskenler.csproj", "{F4C2E49F-5DC6-4E3D-BD7C-13FFCA23512B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d05_degisken_tipleri", "d05_degisken_tipleri\d05_degisken_tipleri.csproj", "{86B49825-C324-472A-AACE-48B214968980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d05_degisken_tipleri", "d05_degisken_tipleri\d05_degisken_tipleri.csproj", "{86B49825-C324-472A-AACE-48B214968980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d06_tip_donusumleri", "d06_tip_donusumleri\d06_tip_donusumleri.csproj", "{D82C9CD4-96AA-4402-A160-9043050158B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,8 +41,15 @@ Global
 		{86B49825-C324-472A-AACE-48B214968980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86B49825-C324-472A-AACE-48B214968980}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86B49825-C324-472A-AACE-48B214968980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82C9CD4-96AA-4402-A160-9043050158B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82C9CD4-96AA-4402-A160-9043050158B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82C9CD4-96AA-4402-A160-9043050158B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82C9CD4-96AA-4402-A160-9043050158B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC511D4-7F8B-460A-B8F4-7D9DF7C33BCC}
 	EndGlobalSection
 EndGlobal
