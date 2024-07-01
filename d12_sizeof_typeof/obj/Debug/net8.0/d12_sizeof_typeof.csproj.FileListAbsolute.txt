@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\bin\Debug\net8.0\d12_sizeof_typeof.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\bin\Debug\net8.0\d12_sizeof_typeof.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\bin\Debug\net8.0\d12_sizeof_typeof.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\bin\Debug\net8.0\d12_sizeof_typeof.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\bin\Debug\net8.0\d12_sizeof_typeof.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\d12_sizeof_typeof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\d12_sizeof_typeof.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\d12_sizeof_typeof.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\d12_sizeof_typeof.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\d12_sizeof_typeof.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\d12_sizeof_typeof.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\refint\d12_sizeof_typeof.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\d12_sizeof_typeof.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\d12_sizeof_typeof.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d12_sizeof_typeof\obj\Debug\net8.0\ref\d12_sizeof_typeof.dll

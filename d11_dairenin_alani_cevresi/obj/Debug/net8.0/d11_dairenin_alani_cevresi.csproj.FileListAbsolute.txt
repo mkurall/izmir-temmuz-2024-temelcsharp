@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\bin\Debug\net8.0\d11_dairenin_alani_cevresi.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\bin\Debug\net8.0\d11_dairenin_alani_cevresi.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\bin\Debug\net8.0\d11_dairenin_alani_cevresi.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\bin\Debug\net8.0\d11_dairenin_alani_cevresi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\bin\Debug\net8.0\d11_dairenin_alani_cevresi.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\d11_dairenin_alani_cevresi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\d11_dairenin_alani_cevresi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\d11_dairenin_alani_cevresi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\d11_dairenin_alani_cevresi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\d11_dairenin_alani_cevresi.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\d11_dairenin_alani_cevresi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\refint\d11_dairenin_alani_cevresi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\d11_dairenin_alani_cevresi.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\d11_dairenin_alani_cevresi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d11_dairenin_alani_cevresi\obj\Debug\net8.0\ref\d11_dairenin_alani_cevresi.dll
