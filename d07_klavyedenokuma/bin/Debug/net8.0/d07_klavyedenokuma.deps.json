@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d07_klavyedenokuma/1.0.0": {
+        "runtime": {
+          "d07_klavyedenokuma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d07_klavyedenokuma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

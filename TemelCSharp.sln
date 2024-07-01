@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d05_degisken_tipleri", "d05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d06_tip_donusumleri", "d06_tip_donusumleri\d06_tip_donusumleri.csproj", "{D82C9CD4-96AA-4402-A160-9043050158B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d07_klavyedenokuma", "d07_klavyedenokuma\d07_klavyedenokuma.csproj", "{FA0975AD-0E2E-4481-95E9-6F728233A25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d08_iki_sayi_topla", "d08_iki_sayi_topla\d08_iki_sayi_topla.csproj", "{3CFD67A2-1645-4825-95CA-B0D9BBA8C351}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{D82C9CD4-96AA-4402-A160-9043050158B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D82C9CD4-96AA-4402-A160-9043050158B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D82C9CD4-96AA-4402-A160-9043050158B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0975AD-0E2E-4481-95E9-6F728233A25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0975AD-0E2E-4481-95E9-6F728233A25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0975AD-0E2E-4481-95E9-6F728233A25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0975AD-0E2E-4481-95E9-6F728233A25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFD67A2-1645-4825-95CA-B0D9BBA8C351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFD67A2-1645-4825-95CA-B0D9BBA8C351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFD67A2-1645-4825-95CA-B0D9BBA8C351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFD67A2-1645-4825-95CA-B0D9BBA8C351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

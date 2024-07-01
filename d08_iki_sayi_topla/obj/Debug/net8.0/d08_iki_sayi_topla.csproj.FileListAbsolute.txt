@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\bin\Debug\net8.0\d08_iki_sayi_topla.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\bin\Debug\net8.0\d08_iki_sayi_topla.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\bin\Debug\net8.0\d08_iki_sayi_topla.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\bin\Debug\net8.0\d08_iki_sayi_topla.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\bin\Debug\net8.0\d08_iki_sayi_topla.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\d08_iki_sayi_topla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\d08_iki_sayi_topla.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\d08_iki_sayi_topla.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\d08_iki_sayi_topla.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\d08_iki_sayi_topla.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\d08_iki_sayi_topla.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\refint\d08_iki_sayi_topla.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\d08_iki_sayi_topla.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\d08_iki_sayi_topla.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d08_iki_sayi_topla\obj\Debug\net8.0\ref\d08_iki_sayi_topla.dll

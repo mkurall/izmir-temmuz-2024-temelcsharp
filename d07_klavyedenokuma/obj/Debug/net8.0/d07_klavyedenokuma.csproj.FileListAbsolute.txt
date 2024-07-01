@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\bin\Debug\net8.0\d07_klavyedenokuma.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\bin\Debug\net8.0\d07_klavyedenokuma.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\bin\Debug\net8.0\d07_klavyedenokuma.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\bin\Debug\net8.0\d07_klavyedenokuma.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\bin\Debug\net8.0\d07_klavyedenokuma.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\d07_klavyedenokuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\d07_klavyedenokuma.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\d07_klavyedenokuma.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\d07_klavyedenokuma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\d07_klavyedenokuma.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\d07_klavyedenokuma.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\refint\d07_klavyedenokuma.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\d07_klavyedenokuma.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\d07_klavyedenokuma.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d07_klavyedenokuma\obj\Debug\net8.0\ref\d07_klavyedenokuma.dll
