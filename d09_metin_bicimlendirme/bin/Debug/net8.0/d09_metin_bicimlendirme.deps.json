@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d09_metin_bicimlendirme/1.0.0": {
+        "runtime": {
+          "d09_metin_bicimlendirme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d09_metin_bicimlendirme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

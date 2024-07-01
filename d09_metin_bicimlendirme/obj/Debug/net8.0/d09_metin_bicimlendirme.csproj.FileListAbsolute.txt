@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\bin\Debug\net8.0\d09_metin_bicimlendirme.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\bin\Debug\net8.0\d09_metin_bicimlendirme.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\bin\Debug\net8.0\d09_metin_bicimlendirme.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\bin\Debug\net8.0\d09_metin_bicimlendirme.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\bin\Debug\net8.0\d09_metin_bicimlendirme.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\d09_metin_bicimlendirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\d09_metin_bicimlendirme.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\d09_metin_bicimlendirme.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\d09_metin_bicimlendirme.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\d09_metin_bicimlendirme.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\d09_metin_bicimlendirme.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\refint\d09_metin_bicimlendirme.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\d09_metin_bicimlendirme.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\d09_metin_bicimlendirme.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d09_metin_bicimlendirme\obj\Debug\net8.0\ref\d09_metin_bicimlendirme.dll
