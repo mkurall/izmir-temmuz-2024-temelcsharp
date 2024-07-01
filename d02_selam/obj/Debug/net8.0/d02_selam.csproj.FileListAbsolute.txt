@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\bin\Debug\net8.0\d02_selam.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\bin\Debug\net8.0\d02_selam.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\bin\Debug\net8.0\d02_selam.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\bin\Debug\net8.0\d02_selam.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\bin\Debug\net8.0\d02_selam.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\d02_selam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\d02_selam.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\d02_selam.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\d02_selam.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\d02_selam.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\refint\d02_selam.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\d02_selam.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\d02_selam.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d02_selam\obj\Debug\net8.0\ref\d02_selam.dll

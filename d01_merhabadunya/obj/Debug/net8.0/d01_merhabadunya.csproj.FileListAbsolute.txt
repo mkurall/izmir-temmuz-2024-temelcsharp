@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\bin\Debug\net8.0\d01_merhabadunya.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\bin\Debug\net8.0\d01_merhabadunya.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\bin\Debug\net8.0\d01_merhabadunya.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\bin\Debug\net8.0\d01_merhabadunya.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\bin\Debug\net8.0\d01_merhabadunya.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\refint\d01_merhabadunya.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\ref\d01_merhabadunya.dll

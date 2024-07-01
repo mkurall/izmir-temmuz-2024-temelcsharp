@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d01_merhabadunya/1.0.0": {
+        "runtime": {
+          "d01_merhabadunya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d01_merhabadunya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

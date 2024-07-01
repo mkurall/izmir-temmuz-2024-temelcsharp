@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\bin\Debug\net8.0\d03_sabitveriler.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\bin\Debug\net8.0\d03_sabitveriler.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\bin\Debug\net8.0\d03_sabitveriler.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\bin\Debug\net8.0\d03_sabitveriler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\bin\Debug\net8.0\d03_sabitveriler.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\d03_sabitveriler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\d03_sabitveriler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\d03_sabitveriler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\d03_sabitveriler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\d03_sabitveriler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\refint\d03_sabitveriler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\d03_sabitveriler.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\d03_sabitveriler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d03_sabitveriler\obj\Debug\net8.0\ref\d03_sabitveriler.dll
