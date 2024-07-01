@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\bin\Debug\net8.0\d10_operatorler.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\bin\Debug\net8.0\d10_operatorler.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\bin\Debug\net8.0\d10_operatorler.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\bin\Debug\net8.0\d10_operatorler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\bin\Debug\net8.0\d10_operatorler.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\d10_operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\d10_operatorler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\d10_operatorler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\d10_operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\d10_operatorler.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\d10_operatorler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\refint\d10_operatorler.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\d10_operatorler.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\d10_operatorler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d10_operatorler\obj\Debug\net8.0\ref\d10_operatorler.dll

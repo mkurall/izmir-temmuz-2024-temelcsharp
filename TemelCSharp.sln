@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d08_iki_sayi_topla_daha_kis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d09_metin_bicimlendirme", "d09_metin_bicimlendirme\d09_metin_bicimlendirme.csproj", "{E4C5447E-5737-4553-8E09-431A9C45C945}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d10_operatorler", "d10_operatorler\d10_operatorler.csproj", "{86F3AB33-09FB-4B7F-8926-4404B71A8BBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{E4C5447E-5737-4553-8E09-431A9C45C945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4C5447E-5737-4553-8E09-431A9C45C945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4C5447E-5737-4553-8E09-431A9C45C945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F3AB33-09FB-4B7F-8926-4404B71A8BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F3AB33-09FB-4B7F-8926-4404B71A8BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F3AB33-09FB-4B7F-8926-4404B71A8BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F3AB33-09FB-4B7F-8926-4404B71A8BBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
