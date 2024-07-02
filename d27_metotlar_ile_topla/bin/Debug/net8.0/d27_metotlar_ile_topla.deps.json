@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d27_metotlar_ile_topla/1.0.0": {
+        "runtime": {
+          "d27_metotlar_ile_topla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d27_metotlar_ile_topla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

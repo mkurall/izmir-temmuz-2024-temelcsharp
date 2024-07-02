@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\bin\Debug\net8.0\d27_metotlar_ile_topla.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\bin\Debug\net8.0\d27_metotlar_ile_topla.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\bin\Debug\net8.0\d27_metotlar_ile_topla.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\bin\Debug\net8.0\d27_metotlar_ile_topla.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\bin\Debug\net8.0\d27_metotlar_ile_topla.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\d27_metotlar_ile_topla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\d27_metotlar_ile_topla.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\d27_metotlar_ile_topla.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\d27_metotlar_ile_topla.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\d27_metotlar_ile_topla.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\d27_metotlar_ile_topla.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\refint\d27_metotlar_ile_topla.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\d27_metotlar_ile_topla.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\d27_metotlar_ile_topla.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d27_metotlar_ile_topla\obj\Debug\net8.0\ref\d27_metotlar_ile_topla.dll
