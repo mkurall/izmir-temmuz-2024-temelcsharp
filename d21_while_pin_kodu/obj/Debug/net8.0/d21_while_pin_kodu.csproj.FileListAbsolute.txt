@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\bin\Debug\net8.0\d21_while_pin_kodu.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\bin\Debug\net8.0\d21_while_pin_kodu.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\bin\Debug\net8.0\d21_while_pin_kodu.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\bin\Debug\net8.0\d21_while_pin_kodu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\bin\Debug\net8.0\d21_while_pin_kodu.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\d21_while_pin_kodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\d21_while_pin_kodu.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\d21_while_pin_kodu.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\d21_while_pin_kodu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\d21_while_pin_kodu.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\d21_while_pin_kodu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\refint\d21_while_pin_kodu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\d21_while_pin_kodu.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\d21_while_pin_kodu.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d21_while_pin_kodu\obj\Debug\net8.0\ref\d21_while_pin_kodu.dll
