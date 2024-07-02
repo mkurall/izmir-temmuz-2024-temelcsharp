@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d17_switch_haftanin_gunu", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d18_for_dongusu", "d18_for_dongusu\d18_for_dongusu.csproj", "{9A81B093-A762-4E24-A813-980F1BF6A13F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d19_for_ile_ortalama", "d19_for_ile_ortalama\d19_for_ile_ortalama.csproj", "{12ACEF06-F9DD-4077-A27D-B447C5FE228C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{9A81B093-A762-4E24-A813-980F1BF6A13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A81B093-A762-4E24-A813-980F1BF6A13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A81B093-A762-4E24-A813-980F1BF6A13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12ACEF06-F9DD-4077-A27D-B447C5FE228C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12ACEF06-F9DD-4077-A27D-B447C5FE228C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12ACEF06-F9DD-4077-A27D-B447C5FE228C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12ACEF06-F9DD-4077-A27D-B447C5FE228C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

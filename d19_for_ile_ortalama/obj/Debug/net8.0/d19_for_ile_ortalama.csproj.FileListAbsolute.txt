@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\bin\Debug\net8.0\d19_for_ile_ortalama.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\bin\Debug\net8.0\d19_for_ile_ortalama.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\bin\Debug\net8.0\d19_for_ile_ortalama.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\bin\Debug\net8.0\d19_for_ile_ortalama.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\bin\Debug\net8.0\d19_for_ile_ortalama.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\d19_for_ile_ortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\d19_for_ile_ortalama.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\d19_for_ile_ortalama.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\d19_for_ile_ortalama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\d19_for_ile_ortalama.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\d19_for_ile_ortalama.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\refint\d19_for_ile_ortalama.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\d19_for_ile_ortalama.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\d19_for_ile_ortalama.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d19_for_ile_ortalama\obj\Debug\net8.0\ref\d19_for_ile_ortalama.dll
