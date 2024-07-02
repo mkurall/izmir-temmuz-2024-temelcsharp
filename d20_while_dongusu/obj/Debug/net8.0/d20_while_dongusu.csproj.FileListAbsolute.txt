@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\bin\Debug\net8.0\d20_while_dongusu.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\bin\Debug\net8.0\d20_while_dongusu.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\bin\Debug\net8.0\d20_while_dongusu.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\bin\Debug\net8.0\d20_while_dongusu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\bin\Debug\net8.0\d20_while_dongusu.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\d20_while_dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\d20_while_dongusu.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\d20_while_dongusu.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\d20_while_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\d20_while_dongusu.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\d20_while_dongusu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\refint\d20_while_dongusu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\d20_while_dongusu.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\d20_while_dongusu.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d20_while_dongusu\obj\Debug\net8.0\ref\d20_while_dongusu.dll

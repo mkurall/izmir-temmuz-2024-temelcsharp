@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d20_while_dongusu/1.0.0": {
+        "runtime": {
+          "d20_while_dongusu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d20_while_dongusu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
