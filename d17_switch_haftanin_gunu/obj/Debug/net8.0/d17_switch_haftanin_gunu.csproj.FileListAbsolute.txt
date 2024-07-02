@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\bin\Debug\net8.0\d17_switch_haftanin_gunu.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\bin\Debug\net8.0\d17_switch_haftanin_gunu.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\bin\Debug\net8.0\d17_switch_haftanin_gunu.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\bin\Debug\net8.0\d17_switch_haftanin_gunu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\bin\Debug\net8.0\d17_switch_haftanin_gunu.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\d17_switch_haftanin_gunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\d17_switch_haftanin_gunu.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\d17_switch_haftanin_gunu.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\d17_switch_haftanin_gunu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\d17_switch_haftanin_gunu.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\d17_switch_haftanin_gunu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\refint\d17_switch_haftanin_gunu.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\d17_switch_haftanin_gunu.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\d17_switch_haftanin_gunu.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d17_switch_haftanin_gunu\obj\Debug\net8.0\ref\d17_switch_haftanin_gunu.dll
