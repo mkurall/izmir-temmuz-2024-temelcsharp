@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d16_ic_ice_if_askerlik", "d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d17_switch_haftanin_gunu", "d17_switch_haftanin_gunu\d17_switch_haftanin_gunu.csproj", "{A38B10F4-0675-4D60-9AE1-DBE4F061FF4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d18_for_dongusu", "d18_for_dongusu\d18_for_dongusu.csproj", "{9A81B093-A762-4E24-A813-980F1BF6A13F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{A38B10F4-0675-4D60-9AE1-DBE4F061FF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A38B10F4-0675-4D60-9AE1-DBE4F061FF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A38B10F4-0675-4D60-9AE1-DBE4F061FF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A81B093-A762-4E24-A813-980F1BF6A13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A81B093-A762-4E24-A813-980F1BF6A13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A81B093-A762-4E24-A813-980F1BF6A13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A81B093-A762-4E24-A813-980F1BF6A13F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

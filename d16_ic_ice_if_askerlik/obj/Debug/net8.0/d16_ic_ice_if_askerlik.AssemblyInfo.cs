@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d16_ic_ice_if_askerlik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c66efa11d369d46bd0040012fd085fde24b6b76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07782e53f3729abb748a03ac3ef1d7bee8263c94")]
 [assembly: System.Reflection.AssemblyProductAttribute("d16_ic_ice_if_askerlik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d16_ic_ice_if_askerlik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
