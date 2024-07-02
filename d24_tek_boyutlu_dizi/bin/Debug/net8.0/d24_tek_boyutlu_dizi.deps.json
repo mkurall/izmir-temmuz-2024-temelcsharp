@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d24_tek_boyutlu_dizi/1.0.0": {
+        "runtime": {
+          "d24_tek_boyutlu_dizi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d24_tek_boyutlu_dizi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

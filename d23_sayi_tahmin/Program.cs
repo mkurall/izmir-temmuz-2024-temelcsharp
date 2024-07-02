@@ -1,7 +1,7 @@
 ﻿//rasgele 1-100 arasında sayı üretir
 int rasgele = new Random().Next(1,100);
 int hak = 5;
-do
+while(true)
 {
     Console.Write($"Tahminiz nedir? (Kalan Hak = {hak})");
     int tahmin = Convert.ToInt32(Console.ReadLine());
@@ -29,5 +29,4 @@ do
             Console.WriteLine("Bilemedin. Daha Küçük!");
         }
     }
-
-} while(true);//sonsuz döngü
+}

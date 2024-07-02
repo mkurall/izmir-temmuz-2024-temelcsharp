@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\bin\Debug\net8.0\d24_tek_boyutlu_dizi.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\bin\Debug\net8.0\d24_tek_boyutlu_dizi.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\bin\Debug\net8.0\d24_tek_boyutlu_dizi.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\bin\Debug\net8.0\d24_tek_boyutlu_dizi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\bin\Debug\net8.0\d24_tek_boyutlu_dizi.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\d24_tek_boyutlu_dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\d24_tek_boyutlu_dizi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\d24_tek_boyutlu_dizi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\d24_tek_boyutlu_dizi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\d24_tek_boyutlu_dizi.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\d24_tek_boyutlu_dizi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\refint\d24_tek_boyutlu_dizi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\d24_tek_boyutlu_dizi.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\d24_tek_boyutlu_dizi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d24_tek_boyutlu_dizi\obj\Debug\net8.0\ref\d24_tek_boyutlu_dizi.dll

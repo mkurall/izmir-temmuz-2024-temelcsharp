@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d22_do_while_ek_eb", "d22_d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d23_sayi_tahmin", "d23_sayi_tahmin\d23_sayi_tahmin.csproj", "{FFBBEC94-E039-4340-A95F-7027DD9B9936}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d24_tek_boyutlu_dizi", "d24_tek_boyutlu_dizi\d24_tek_boyutlu_dizi.csproj", "{BA02B60D-53D6-48AE-A719-1452332EDE7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{FFBBEC94-E039-4340-A95F-7027DD9B9936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFBBEC94-E039-4340-A95F-7027DD9B9936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFBBEC94-E039-4340-A95F-7027DD9B9936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA02B60D-53D6-48AE-A719-1452332EDE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA02B60D-53D6-48AE-A719-1452332EDE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA02B60D-53D6-48AE-A719-1452332EDE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA02B60D-53D6-48AE-A719-1452332EDE7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
