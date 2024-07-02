@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\bin\Debug\net8.0\d14_askere_gidebilir_mi.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\bin\Debug\net8.0\d14_askere_gidebilir_mi.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\bin\Debug\net8.0\d14_askere_gidebilir_mi.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\bin\Debug\net8.0\d14_askere_gidebilir_mi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\bin\Debug\net8.0\d14_askere_gidebilir_mi.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\d14_askere_gidebilir_mi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\d14_askere_gidebilir_mi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\d14_askere_gidebilir_mi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\d14_askere_gidebilir_mi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\d14_askere_gidebilir_mi.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\d14_askere_gidebilir_mi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\refint\d14_askere_gidebilir_mi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\d14_askere_gidebilir_mi.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\d14_askere_gidebilir_mi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d14_askere_gidebilir_mi\obj\Debug\net8.0\ref\d14_askere_gidebilir_mi.dll

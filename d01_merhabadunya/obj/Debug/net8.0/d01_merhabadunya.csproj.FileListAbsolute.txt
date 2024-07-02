@@ -12,3 +12,4 @@ C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\n
 C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.pdb
 C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\ref\d01_merhabadunya.dll
+c:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d01_merhabadunya\obj\Debug\net8.0\d01_merhabadunya.sourcelink.json

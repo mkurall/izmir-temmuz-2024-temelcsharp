@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d13_vize_final_ortalama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28def094c508c73d014a4c047e7c31c9156e4805")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9626235d8a4f19e67774fe942705117698e0b78")]
 [assembly: System.Reflection.AssemblyProductAttribute("d13_vize_final_ortalama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d13_vize_final_ortalama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

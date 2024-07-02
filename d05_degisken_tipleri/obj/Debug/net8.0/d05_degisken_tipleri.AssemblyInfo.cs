@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d05_degisken_tipleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53b583f2a4fe01baa8ad0e2fe5e6ff4cd046711d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9626235d8a4f19e67774fe942705117698e0b78")]
 [assembly: System.Reflection.AssemblyProductAttribute("d05_degisken_tipleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d05_degisken_tipleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

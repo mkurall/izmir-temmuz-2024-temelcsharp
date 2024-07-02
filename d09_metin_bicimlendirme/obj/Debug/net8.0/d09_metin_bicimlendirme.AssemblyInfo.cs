@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d09_metin_bicimlendirme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37154d7c9135cf407436b2a296f2f90ee5152f72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9626235d8a4f19e67774fe942705117698e0b78")]
 [assembly: System.Reflection.AssemblyProductAttribute("d09_metin_bicimlendirme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d09_metin_bicimlendirme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
