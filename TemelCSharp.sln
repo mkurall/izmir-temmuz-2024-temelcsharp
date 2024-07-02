@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d20_while_dongusu", "d20_wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d21_while_pin_kodu", "d21_while_pin_kodu\d21_while_pin_kodu.csproj", "{D9450C1F-F9B2-410E-ACF9-44D06B1A53FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d22_do_while_ek_eb", "d22_do_while_ek_eb\d22_do_while_ek_eb.csproj", "{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{D9450C1F-F9B2-410E-ACF9-44D06B1A53FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9450C1F-F9B2-410E-ACF9-44D06B1A53FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9450C1F-F9B2-410E-ACF9-44D06B1A53FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

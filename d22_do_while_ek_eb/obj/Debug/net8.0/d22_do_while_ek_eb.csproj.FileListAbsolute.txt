@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\bin\Debug\net8.0\d22_do_while_ek_eb.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\bin\Debug\net8.0\d22_do_while_ek_eb.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\bin\Debug\net8.0\d22_do_while_ek_eb.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\bin\Debug\net8.0\d22_do_while_ek_eb.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\bin\Debug\net8.0\d22_do_while_ek_eb.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\d22_do_while_ek_eb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\d22_do_while_ek_eb.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\d22_do_while_ek_eb.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\d22_do_while_ek_eb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\d22_do_while_ek_eb.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\d22_do_while_ek_eb.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\refint\d22_do_while_ek_eb.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\d22_do_while_ek_eb.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\d22_do_while_ek_eb.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d22_do_while_ek_eb\obj\Debug\net8.0\ref\d22_do_while_ek_eb.dll
