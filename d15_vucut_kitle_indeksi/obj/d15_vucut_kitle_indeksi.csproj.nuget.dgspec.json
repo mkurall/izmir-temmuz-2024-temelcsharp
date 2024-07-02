@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d01_merhabadunya\\d01_merhabadunya.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d15_vucut_kitle_indeksi\\d15_vucut_kitle_indeksi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d01_merhabadunya\\d01_merhabadunya.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d15_vucut_kitle_indeksi\\d15_vucut_kitle_indeksi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d01_merhabadunya\\d01_merhabadunya.csproj",
-        "projectName": "d01_merhabadunya",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d01_merhabadunya\\d01_merhabadunya.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d15_vucut_kitle_indeksi\\d15_vucut_kitle_indeksi.csproj",
+        "projectName": "d15_vucut_kitle_indeksi",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d15_vucut_kitle_indeksi\\d15_vucut_kitle_indeksi.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d01_merhabadunya\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\BTK KURS\\TemelCSharp\\d15_vucut_kitle_indeksi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

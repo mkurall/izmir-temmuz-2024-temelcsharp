@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\bin\Debug\net8.0\d15_vucut_kitle_indeksi.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\bin\Debug\net8.0\d15_vucut_kitle_indeksi.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\bin\Debug\net8.0\d15_vucut_kitle_indeksi.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\bin\Debug\net8.0\d15_vucut_kitle_indeksi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\bin\Debug\net8.0\d15_vucut_kitle_indeksi.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\d15_vucut_kitle_indeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\d15_vucut_kitle_indeksi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\d15_vucut_kitle_indeksi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\d15_vucut_kitle_indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\d15_vucut_kitle_indeksi.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\d15_vucut_kitle_indeksi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\refint\d15_vucut_kitle_indeksi.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\d15_vucut_kitle_indeksi.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\d15_vucut_kitle_indeksi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d15_vucut_kitle_indeksi\obj\Debug\net8.0\ref\d15_vucut_kitle_indeksi.dll

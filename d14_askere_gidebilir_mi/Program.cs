@@ -7,7 +7,7 @@ char saglikOzru = Convert.ToChar(Console.ReadLine());
 
 //A Noktası
 
-if(yas>=20 && cinsiyet=='e' && saglikOzru == 'h')//true yada false
+if(yas>=20 && (cinsiyet=='e' || cinsiyet == 'E') && saglikOzru == 'h')//true yada false
 {
     Console.WriteLine("ASKERE GİDEBİLİRSİNİZ.");
 }
