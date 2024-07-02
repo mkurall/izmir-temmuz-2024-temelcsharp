@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\bin\Debug\net8.0\d29_metot_ornek_say.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\bin\Debug\net8.0\d29_metot_ornek_say.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\bin\Debug\net8.0\d29_metot_ornek_say.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\bin\Debug\net8.0\d29_metot_ornek_say.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\bin\Debug\net8.0\d29_metot_ornek_say.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\d29_metot_ornek_say.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\d29_metot_ornek_say.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\d29_metot_ornek_say.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\d29_metot_ornek_say.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\d29_metot_ornek_say.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\d29_metot_ornek_say.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\refint\d29_metot_ornek_say.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\d29_metot_ornek_say.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\d29_metot_ornek_say.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d29_metot_ornek_say\obj\Debug\net8.0\ref\d29_metot_ornek_say.dll

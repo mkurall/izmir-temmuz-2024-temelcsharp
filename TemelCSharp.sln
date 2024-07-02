@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d27_metotlar_ile_topla", "d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d28_gelismis_metot_tanimlari", "d28_gelismis_metot_tanimlari\d28_gelismis_metot_tanimlari.csproj", "{314A576E-3FC8-4775-8A56-D1759C9260AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d29_metot_ornek_say", "d29_metot_ornek_say\d29_metot_ornek_say.csproj", "{C19665BF-574D-4832-8DF0-7E6E52AD6288}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{314A576E-3FC8-4775-8A56-D1759C9260AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{314A576E-3FC8-4775-8A56-D1759C9260AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{314A576E-3FC8-4775-8A56-D1759C9260AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19665BF-574D-4832-8DF0-7E6E52AD6288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19665BF-574D-4832-8DF0-7E6E52AD6288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19665BF-574D-4832-8DF0-7E6E52AD6288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19665BF-574D-4832-8DF0-7E6E52AD6288}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
