@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\bin\Debug\net8.0\d23_sayi_tahmin.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\bin\Debug\net8.0\d23_sayi_tahmin.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\bin\Debug\net8.0\d23_sayi_tahmin.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\bin\Debug\net8.0\d23_sayi_tahmin.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\bin\Debug\net8.0\d23_sayi_tahmin.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\d23_sayi_tahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\d23_sayi_tahmin.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\d23_sayi_tahmin.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\d23_sayi_tahmin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\d23_sayi_tahmin.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\d23_sayi_tahmin.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\refint\d23_sayi_tahmin.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\d23_sayi_tahmin.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\d23_sayi_tahmin.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d23_sayi_tahmin\obj\Debug\net8.0\ref\d23_sayi_tahmin.dll

@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d21_while_pin_kodu", "d21_w
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d22_do_while_ek_eb", "d22_do_while_ek_eb\d22_do_while_ek_eb.csproj", "{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d23_sayi_tahmin", "d23_sayi_tahmin\d23_sayi_tahmin.csproj", "{FFBBEC94-E039-4340-A95F-7027DD9B9936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A155D73-C3CD-4DBD-A21D-D6740E99D07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBBEC94-E039-4340-A95F-7027DD9B9936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBBEC94-E039-4340-A95F-7027DD9B9936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBBEC94-E039-4340-A95F-7027DD9B9936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBBEC94-E039-4340-A95F-7027DD9B9936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

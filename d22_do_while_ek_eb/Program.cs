@@ -24,7 +24,7 @@ do
             eb = sayi;
     }
 
-}while(sayi!=0);
+} while(sayi!=0);
 
 
 Console.WriteLine($"En küçük: {ek} En büyük:{eb}");
