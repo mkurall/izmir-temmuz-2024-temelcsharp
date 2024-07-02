@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d23_sayi_tahmin", "d23_sayi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d24_tek_boyutlu_dizi", "d24_tek_boyutlu_dizi\d24_tek_boyutlu_dizi.csproj", "{BA02B60D-53D6-48AE-A719-1452332EDE7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d25_string_dizidir", "d25_string_dizidir\d25_string_dizidir.csproj", "{9CB5F9DB-C435-44A1-B221-0A56B4729F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d26_iki_boyutlu_dizi", "d26_iki_boyutlu_dizi\d26_iki_boyutlu_dizi.csproj", "{05A3CF00-AB80-49A8-B9FA-EE3F1D7DE853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{BA02B60D-53D6-48AE-A719-1452332EDE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA02B60D-53D6-48AE-A719-1452332EDE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA02B60D-53D6-48AE-A719-1452332EDE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB5F9DB-C435-44A1-B221-0A56B4729F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB5F9DB-C435-44A1-B221-0A56B4729F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB5F9DB-C435-44A1-B221-0A56B4729F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB5F9DB-C435-44A1-B221-0A56B4729F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A3CF00-AB80-49A8-B9FA-EE3F1D7DE853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A3CF00-AB80-49A8-B9FA-EE3F1D7DE853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A3CF00-AB80-49A8-B9FA-EE3F1D7DE853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A3CF00-AB80-49A8-B9FA-EE3F1D7DE853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

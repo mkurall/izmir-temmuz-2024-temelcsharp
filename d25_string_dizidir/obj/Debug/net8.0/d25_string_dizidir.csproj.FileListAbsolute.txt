@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\bin\Debug\net8.0\d25_string_dizidir.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\bin\Debug\net8.0\d25_string_dizidir.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\bin\Debug\net8.0\d25_string_dizidir.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\bin\Debug\net8.0\d25_string_dizidir.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\bin\Debug\net8.0\d25_string_dizidir.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\d25_string_dizidir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\d25_string_dizidir.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\d25_string_dizidir.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\d25_string_dizidir.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\d25_string_dizidir.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\d25_string_dizidir.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\refint\d25_string_dizidir.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\d25_string_dizidir.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\d25_string_dizidir.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d25_string_dizidir\obj\Debug\net8.0\ref\d25_string_dizidir.dll
