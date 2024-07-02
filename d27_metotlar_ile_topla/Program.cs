@@ -1,4 +1,5 @@
-﻿void BilgiVer()//imza (başlık)
+﻿
+void BilgiVer()//imza (başlık)
 {   //gövde
     Console.WriteLine("Bu uygulama BTKAKADEMİ C# Kursunda Yazıldı.");
 }
@@ -30,3 +31,5 @@ int sonuc = Islem(s1, s2);
 Console.WriteLine($"İşlem Sonucu = {sonuc}");
 Bekle();
 //ANAPROGRAM SONU
+
+

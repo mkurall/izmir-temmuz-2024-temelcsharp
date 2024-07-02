@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d28_gelismis_metot_tanimlari/1.0.0": {
+        "runtime": {
+          "d28_gelismis_metot_tanimlari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d28_gelismis_metot_tanimlari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

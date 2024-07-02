@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\bin\Debug\net8.0\d28_gelismis_metot_tanimlari.exe
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\bin\Debug\net8.0\d28_gelismis_metot_tanimlari.deps.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\bin\Debug\net8.0\d28_gelismis_metot_tanimlari.runtimeconfig.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\bin\Debug\net8.0\d28_gelismis_metot_tanimlari.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\bin\Debug\net8.0\d28_gelismis_metot_tanimlari.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\d28_gelismis_metot_tanimlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\d28_gelismis_metot_tanimlari.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\d28_gelismis_metot_tanimlari.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\d28_gelismis_metot_tanimlari.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\d28_gelismis_metot_tanimlari.sourcelink.json
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\d28_gelismis_metot_tanimlari.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\refint\d28_gelismis_metot_tanimlari.dll
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\d28_gelismis_metot_tanimlari.pdb
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\d28_gelismis_metot_tanimlari.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BTK KURS\TemelCSharp\d28_gelismis_metot_tanimlari\obj\Debug\net8.0\ref\d28_gelismis_metot_tanimlari.dll
