@@ -23,7 +23,9 @@ else
 
 switch(gunNo)
 {
-    case 1:Console.Write("PAZARTESİ");break;
+    case 1:
+        Console.Write("PAZARTESİ");
+    break;
     case 2:Console.Write("SALI");break;
     case 3:Console.Write("ÇARŞAMBA");break;
     case 4:Console.Write("PERŞEMBE");break;
@@ -33,6 +35,18 @@ switch(gunNo)
     default:Console.Write("HATALI GÜN!");break;
 }
 
-
+switch(gunNo)
+{
+    case 1:
+    case 2:
+    case 3:
+    case 4:
+    case 5:
+    Console.WriteLine("HAFTA İÇİ");break;
+    case 6:
+    case 7:
+    Console.WriteLine("HAFTA SONU");break;
+    default : Console.WriteLine("HATALI GÜN!");break;
+}
 
 
